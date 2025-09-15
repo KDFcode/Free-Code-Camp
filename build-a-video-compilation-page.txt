@@ -1,0 +1,44 @@
+** start of index.html **
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <title>Video Compilation Page</title>
+</head>
+
+<body>
+    <main>
+        <h1>Back end development</h1>
+        <p>Back end development deals with all the non-front-facing code, all the background functionalities and infrastructure, database connections and similar.</p>
+        <section>
+            <h2> Databases </h2>
+            <p>"Learn all the basics of Structured Query Language in this comprehensive SQL course. You will build out real database tables and practice querying them in flexible ways as a backend web developer would in a production setting.
+"</p>
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/KBDSJU3cGkc?si=L9e9BuWxb_GFvTMx" title="SQL For Web Developers" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        </section>
+        <section>
+            <h2> APIs </h2>
+            <p>"What is an API? Learn all about APIs (Application Programming Interfaces) in this full tutorial for beginners. You will learn what APIs do, why APIs exist, and the many benefits of APIs. APIs are used all the time in programming and web development so it is important to understand how to use them"</p>
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/WXsD0ZgxjRw?si=5K913auisWRoF2zp" title="APIs for Beginners" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        </section>
+        <section>
+            <h2>Servers </h2>
+            <p>"Linux has long been a favorite operating system for server administration because it’s a secure open-source O.S. that’s able to be both stable and flexible.
+
+This course will teach you how to configure servers running the Linux operating system, including the boot process, kernel modules, network connection parameters, and localization groups."</p>
+           
+           <iframe width="560" height="315" src="https://www.youtube.com/embed/WMy3OzvBWc0?si=W2-2NqKPMIK_4Ko3" title="Linux Server Course - System Configuration and Operation" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+             
+        </section>
+
+    </main>
+</body>
+
+</html>
+ 
+
+
+** end of index.html **
+
