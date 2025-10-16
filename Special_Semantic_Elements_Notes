@@ -1,0 +1,54 @@
+Example 1:
+<p>
+  To set the text color to blue in CSS, use the following code:
+  <code>color: blue;</code>
+</p>
+
+Example 2:
+<pre>
+  <code>
+    body {
+      color: red;
+    }
+  </code>
+</pre>
+
+<!-- When using the pre element, you will need to be mindful of spacing because it will display exactly as written inside the HTML document. -->
+
+From
+https://www.freecodecamp.org/learn/full-stack-developer/lecture-working-with-specialized-semantic-elements/how-do-you-represent-computer-code-in-html
+
+
+Example 3:
+<p>
+  You can use the unarticulated annotation element to highlight
+  <u>inccccort</u> <u>spling</u> <u>issses</u>.
+</p>
+
+Example 4:
+<p><s>Tomorrow's hike will be meeting at noon.</s></p>
+
+<p>Due to unforeseen weather conditions, the hike has been canceled.</p>
+
+
+Example 5:
+<ruby> 明日 <rp>(</rp><rt>Ashita</rt><rp>)</rp> </ruby>
+
+From
+https://www.freecodecamp.org/learn/full-stack-developer/lecture-working-with-specialized-semantic-elements/what-are-the-u-s-and-ruby-elements-used-for
+
+Example 6:
+<p>2<sup>2</sup> (2 squared) is 4.</p>
+
+Example 7:
+<p>
+  Monseigneur is often written as <strong>M<sup>gr</sup></strong>.
+</p>
+
+Example 8:
+<p>CO<sub>2</sub></p>
+
+https://www.freecodecamp.org/learn/full-stack-developer/lecture-working-with-specialized-semantic-elements/how-do-you-display-mathematical-equations-and-chemical-formulas-in-html
+
+
+https://codesandbox.io/p/sandbox/xq2hw9?file=%2Findex.html%3A7%2C7 ,vscode etc., sublime text are all valid ways to test the examples out
